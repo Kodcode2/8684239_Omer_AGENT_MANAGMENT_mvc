@@ -1,4 +1,12 @@
+﻿using Management_of_Mossad_agents___MVC.Controllers;
+
 var builder = WebApplication.CreateBuilder(args);
+
+
+builder.Services.AddHttpClient<HomeController>();
+builder.Services.AddHttpClient<TargetsController>();
+builder.Services.AddHttpClient<MissionsController>();
+builder.Services.AddHttpClient<OverviewController>();
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

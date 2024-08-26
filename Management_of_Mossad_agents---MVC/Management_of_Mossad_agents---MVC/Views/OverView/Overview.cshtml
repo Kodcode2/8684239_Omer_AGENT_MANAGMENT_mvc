@@ -1,0 +1,19 @@
+﻿@model Management_of_Mossad_agents___MVC.ViewModels.OverviewViewModel
+
+<h2>Overview</h2>
+<script>
+    setTimeout(function(){
+       window.location.reload(1);
+    }, 5000);
+</script>
+
+<div>
+    <p>סך הכול סוכנים: @Model.TotalAgents</p>
+    <p>סוכנים בפעילות: @Model.ActiveAgents</p>
+    <p>סך הכל מטרות : @Model.TotalTargets</p>
+    <p>מטרות מחוסלות: @Model.EliminatedTargets</p>
+    <p>סך הכל משימות: @Model.TotalMissions</p>
+    <p>משימות פעילות: @Model.ActiveMissions</p>
+    <p>יחס סוכנים למטרות: @Model.AgentToTargetRatio</p>
+    <p>יחס סוכנים שבהצעה לציוות למטרות: @Model.AvailableAgentToTargetRatio</p>
+</div>

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Management_of_Mossad_agents___MVC.Models.Target>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>מטרות</title>
+    <link rel="stylesheet" href="~/css/site.css">
+</head>
+<body>
+    <script>
+        setTimeout(function(){
+           window.location.reload(1);
+        }, 5000);
+    </script>
+    <div class="container">
+        <h1>מטרות</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>מזהה</th>
+                    <th>שם</th>
+                    <th>תמונה</th>
+                    <th>תפקיד</th>
+                    <th>מיקום</th>
+                    <th>סטטוס</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var target in Model)
+                {
+                    <tr>
+                        <td>@target.id</td>
+                        <td>@target.name</td>
+                        <td><img src="@target.photoUrl" alt="@target.name" width="100" height="100"></td>
+                        <td>@target.position</td>
+                        <td>@target.location?.X, @target.location?.Y</td>
+                        <td>@target.status</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

@@ -1,0 +1,51 @@
+﻿@model IEnumerable<Management_of_Mossad_agents___MVC.ViewModels.MissionDetailsViewModel>
+
+@{
+    ViewData["Title"] = "פרטי משימות";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>מזהה משימה</th>
+            <th>מזהה סוכן</th>
+            <th>כינוי סוכן</th>
+            <th>מיקום סוכן</th>
+            <th>מזהה מטרה</th>
+            <th>שם מטרה</th>
+            <th>מיקום מטרה</th>
+            <th>מרחק</th>
+            <th>סטטוס</th>
+            <th>ציוות</th> 
+        </tr>
+    </thead>
+    <tbody>
+        <script>
+            setTimeout(function(){
+               window.location.reload(1);
+            }, 5000);
+        </script>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.MissionId</td>
+                <td>@item.AgentId</td>
+                <td>@item.AgentName</td>
+                <td>@item.AgentLocation.X, @item.AgentLocation.Y</td>
+                <td>@item.TargetId</td>
+                <td>@item.TargetName</td>
+                <td>@item.TargetLocation.X, @item.TargetLocation.Y</td>
+                <td>@item.Distance</td>
+                <td>@item.Status</td>
+                <td>
+                    <form asp-action="AssignForTheMission" method="put">
+                        <input type="hidden" name="missionId" value="@item.MissionId" />
+                        <button type="submit" class="btn btn-primary">בצע ציוות</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
