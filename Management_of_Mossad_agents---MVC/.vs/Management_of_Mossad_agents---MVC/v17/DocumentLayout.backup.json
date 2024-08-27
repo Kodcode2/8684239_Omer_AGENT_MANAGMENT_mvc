@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\controllers\\targetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\controllers\\targetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\controllers\\missionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\controllers\\missionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\overviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\overviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\missionsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\missionsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\missiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\missiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\agentapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\agentapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\agentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\agentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\views\\targets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\views\\targets\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,52 +75,12 @@
       "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\targetresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\missionsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\missionsresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\overviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\overviewviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\missiondetailsviewmodel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\missiondetailsviewmodel2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\missiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\missiondetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\agentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\agentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\viewmodels\\agentapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\viewmodels\\agentapiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\models\\agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\controllers\\targetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\controllers\\targetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\controllers\\overviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\controllers\\missionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\controllers\\missionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|solutionrelative:management_of_mossad_agents---mvc\\controllers\\agentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6703AE44-DF64-4644-91B3-D05827854678}|Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC.csproj|c:\\idf many repositories\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\management_of_mossad_agents---mvc\\models\\mission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -106,97 +110,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Program.cs",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Program.cs",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T09:40:29.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Agents\\Index.cshtml",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Agents\\Index.cshtml",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Agents\\Index.cshtml",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\Agents\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T13:11:16.237Z",
+              "Title": "AgentsController.cs",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\AgentsController.cs",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Controllers\\AgentsController.cs",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\AgentsController.cs",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Controllers\\AgentsController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T13:17:00.297Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\Home\\Index.cshtml",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T14:09:40.631Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:41:33.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Missions\\Index.cshtml",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Missions\\Index.cshtml",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Missions\\Index.cshtml",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\Missions\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T06:14:00.574Z",
+              "Title": "MissionsController.cs",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\MissionsController.cs",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Controllers\\MissionsController.cs",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\MissionsController.cs",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Controllers\\MissionsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:33:00.505Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MissionDetails.cshtml",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Missions\\MissionDetails.cshtml",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Missions\\MissionDetails.cshtml",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Missions\\MissionDetails.cshtml",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\Missions\\MissionDetails.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T20:11:01.499Z",
+              "Title": "OverviewController.cs",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\OverviewController.cs",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Controllers\\OverviewController.cs",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\OverviewController.cs",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Controllers\\OverviewController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:36:08.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Overview.cshtml",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\OverView\\Overview.cshtml",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\OverView\\Overview.cshtml",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\OverView\\Overview.cshtml",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\OverView\\Overview.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T07:55:24.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Targets\\Index.cshtml",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Targets\\Index.cshtml",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Targets\\Index.cshtml",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\Targets\\Index.cshtml",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T10:53:54.045Z",
+              "Title": "TargetsController.cs",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\TargetsController.cs",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Controllers\\TargetsController.cs",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\TargetsController.cs",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Controllers\\TargetsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T07:36:02.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TargetResponse.cs",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\TargetResponse.cs",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\ViewModels\\TargetResponse.cs",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\TargetResponse.cs",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\ViewModels\\TargetResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "OverviewViewModel.cs",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\OverviewViewModel.cs",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\ViewModels\\OverviewViewModel.cs",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\OverviewViewModel.cs",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\ViewModels\\OverviewViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T06:05:50.031Z",
+              "WhenOpened": "2024-08-26T06:05:47.002Z",
               "EditorCaption": ""
             },
             {
@@ -215,32 +219,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "OverviewViewModel.cs",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\OverviewViewModel.cs",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\ViewModels\\OverviewViewModel.cs",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\OverviewViewModel.cs",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\ViewModels\\OverviewViewModel.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T06:05:47.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MissionDetailsViewModel2.cs",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\MissionDetailsViewModel2.cs",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\ViewModels\\MissionDetailsViewModel2.cs",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\MissionDetailsViewModel2.cs",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\ViewModels\\MissionDetailsViewModel2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-27T07:00:26.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "MissionDetailsViewModel.cs",
               "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\MissionDetailsViewModel.cs",
               "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\ViewModels\\MissionDetailsViewModel.cs",
@@ -253,20 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AgentViewModel.cs",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\AgentViewModel.cs",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\ViewModels\\AgentViewModel.cs",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\AgentViewModel.cs",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\ViewModels\\AgentViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T18:23:16.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 9,
               "Title": "AgentApiResponse.cs",
               "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\AgentApiResponse.cs",
               "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\ViewModels\\AgentApiResponse.cs",
@@ -279,7 +244,117 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AgentViewModel.cs",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\AgentViewModel.cs",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\ViewModels\\AgentViewModel.cs",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\AgentViewModel.cs",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\ViewModels\\AgentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T18:23:16.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Targets\\Index.cshtml",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Targets\\Index.cshtml",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Targets\\Index.cshtml",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\Targets\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T10:53:54.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Overview.cshtml",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\OverView\\Overview.cshtml",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\OverView\\Overview.cshtml",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\OverView\\Overview.cshtml",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\OverView\\Overview.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T07:55:24.948Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "MissionDetails.cshtml",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Missions\\MissionDetails.cshtml",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Missions\\MissionDetails.cshtml",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Missions\\MissionDetails.cshtml",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\Missions\\MissionDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T20:11:01.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Missions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Missions\\Index.cshtml",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Missions\\Index.cshtml",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\Missions\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T06:14:00.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T14:09:40.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Agents\\Index.cshtml",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Agents\\Index.cshtml",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Agents\\Index.cshtml",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Views\\Agents\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T13:11:16.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "TargetResponse.cs",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\TargetResponse.cs",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\ViewModels\\TargetResponse.cs",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\TargetResponse.cs",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\ViewModels\\TargetResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:05:50.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MissionDetailsViewModel2.cs",
+              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\MissionDetailsViewModel2.cs",
+              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\ViewModels\\MissionDetailsViewModel2.cs",
+              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\ViewModels\\MissionDetailsViewModel2.cs",
+              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\ViewModels\\MissionDetailsViewModel2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T07:00:26.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Agent.cs",
               "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Models\\Agent.cs",
               "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Models\\Agent.cs",
@@ -287,77 +362,11 @@
               "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Models\\Agent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T13:13:54.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T13:13:54.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TargetsController.cs",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\TargetsController.cs",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Controllers\\TargetsController.cs",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\TargetsController.cs",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Controllers\\TargetsController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T07:36:02.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "OverviewController.cs",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\OverviewController.cs",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Controllers\\OverviewController.cs",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\OverviewController.cs",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Controllers\\OverviewController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T07:36:08.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "MissionsController.cs",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\MissionsController.cs",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Controllers\\MissionsController.cs",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\MissionsController.cs",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Controllers\\MissionsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T07:33:00.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T07:41:33.171Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AgentsController.cs",
-              "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\AgentsController.cs",
-              "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Controllers\\AgentsController.cs",
-              "ToolTip": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Controllers\\AgentsController.cs",
-              "RelativeToolTip": "Management_of_Mossad_agents---MVC\\Controllers\\AgentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T13:17:00.297Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Mission.cs",
               "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Models\\Mission.cs",
               "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Models\\Mission.cs",
@@ -369,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Location.cs",
               "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Models\\Location.cs",
               "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Models\\Location.cs",
@@ -381,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "site.css",
               "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\wwwroot\\css\\site.css",
@@ -393,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Views\\Home\\Privacy.cshtml",
@@ -405,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Target.cs",
               "DocumentMoniker": "C:\\IDF Many repositories\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Management_of_Mossad_agents---MVC\\Models\\Target.cs",
               "RelativeDocumentMoniker": "Management_of_Mossad_agents---MVC\\Models\\Target.cs",
