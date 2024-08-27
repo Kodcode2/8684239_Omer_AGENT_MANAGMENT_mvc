@@ -1,44 +1,63 @@
-﻿@model IEnumerable<Management_of_Mossad_agents___MVC.Models.Agent>
+﻿@model IEnumerable<Management_of_Mossad_agents___MVC.ViewModels.AgentViewModel>
 
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>סוכנים</title>
-    <link rel="stylesheet" href="~/css/site.css">
 </head>
 <body>
-    <script>
-        setTimeout(function(){
-           window.location.reload(1);
-        }, 5000);
-    </script>
-    <div class="container">
-        <h1>סוכנים</h1>
-        <table>
-            <thead>
+    <h1>סוכנים</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>מזהה סוכן</th>
+                <th>כינוי</th>
+                <th>תמונה</th>
+                <th>מיקום</th>
+                <th>סטטוס</th>
+                <th>משימה פעילה</th>
+                <th>זמן לחיסול</th>
+                <th>מטרות שחוסלו</th>
+            </tr>
+        </thead>
+        <tbody>
+            <script>
+                setTimeout(function () {
+                    window.location.reload(1);
+                }, 5000);
+            </script>
+            @foreach (var agent in Model)
+            {
                 <tr>
-                    <th>מזהה סוכן</th>
-                    <th>כינוי</th>
-                    <th>תמונה</th>
-                    <th>מיקום</th>
-                    <th>סטטוס</th>
+                    <td>@agent.AgentId</td>
+                    <td>@agent.AgentName</td>
+                    <td><img src="@agent.PhotoUrl" alt="@agent.AgentName" width="100" height="100"></td>
+                    <td>@agent.Location.X, @agent.Location.Y</td>
+                    <td>@agent.Status</td>
+                    <td>
+                        @if (agent.MissionId.HasValue)
+                        {
+                            <a href="@Url.Action("MissionDetails", "Missions", new { id = agent.MissionId })">פרטי משימה</a>
+                        }
+                        else
+                        {
+                            <span>אין משימה פעילה</span>
+                        }
+                    </td>
+                    <td>
+                        @if (agent.TimeToEliminate.HasValue)
+                        {
+                            @agent.TimeToEliminate.Value.ToString("F2")
+                        }
+                        else
+                        {
+                            <span>אין זמן פעיל</span>
+                        }
+                    </td>
+                    <td>@agent.EliminationsCount</td>
                 </tr>
-            </thead>
-            <tbody>
-                @foreach (var agent in Model)
-                {
-                    <tr>
-                        <td>@agent.id</td>
-                        <td>@agent.nickname</td>
-                        <td><img src="@agent.photoUrl" alt="@agent.nickname" width="100" height="100"></td>
-                        <td>@agent.location?.X, @agent.location?.Y</td>
-                        <td>@agent.status</td>
-                    </tr>
-                }
-            </tbody>
-        </table>
-    </div>
+            }
+        </tbody>
+    </table>
 </body>
 </html>

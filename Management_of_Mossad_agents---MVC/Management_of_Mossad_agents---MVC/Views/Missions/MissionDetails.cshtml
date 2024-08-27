@@ -1,0 +1,43 @@
+﻿@model Management_of_Mossad_agents___MVC.ViewModels.MissionDetailsViewModel2
+
+<h2>פרטי סוכנים</h2>
+
+
+<script>
+    setTimeout(function(){
+       window.location.reload(1);
+    }, 5000);
+</script>
+
+<table class="table">
+    <tr>
+        <th>מזהה משימה</th>
+        <td>@Model.MissionId</td>
+    </tr>
+    <tr>
+        <th>מזהה סוכן</th>
+        <td>@Model.AgentId</td>
+    </tr>
+    <tr>
+        <th>כינוי סוכן</th>
+        <td>@Model.AgentName</td>
+    </tr>
+    <tr>
+        <th>מזהה מטרה</th>
+        <td>@Model.TargetId</td>
+    </tr>
+    <tr>
+        <th>שם מטרה</th>
+        <td>@Model.TargetName</td>
+    </tr>
+    <tr>
+        <th>סטטוס סוכן</th>
+        <td>@Model.Status</td>
+    </tr>
+    <tr>
+        <th>זמן שנותר</th>
+        <td>@Model.TimeLeft</td>
+    </tr>
+</table>
+
+<a href="@Url.Action("Index", "Agents")">בחזרה לסוכנים</a>

@@ -47,5 +47,21 @@ namespace Management_of_Mossad_agents___MVC.Controllers
                 return View("Error");
             }
         }
+
+
+
+        public async Task<IActionResult> MissionDetails(int id)
+        {
+            var response = await _httpClient.GetAsync($"http://localhost:5288/missions/{id}");
+            if (!response.IsSuccessStatusCode)
+            {
+                return View("Error");
+            }
+
+            var jsonResponse = await response.Content.ReadAsStringAsync();
+            var mission = JsonConvert.DeserializeObject<MissionDetailsViewModel2>(jsonResponse);
+
+            return View(mission);
+        }
     }
 }

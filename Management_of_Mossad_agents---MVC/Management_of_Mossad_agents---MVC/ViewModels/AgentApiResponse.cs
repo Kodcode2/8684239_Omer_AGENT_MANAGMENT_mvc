@@ -2,8 +2,9 @@
 
 namespace Management_of_Mossad_agents___MVC.ViewModels
 {
-    public class AgentsResponse
+    public class AgentApiResponse
     {
-        public List<Agent> Agents { get; set; }
+        public List<AgentViewModel> Agents { get; set; }
     }
+
 }

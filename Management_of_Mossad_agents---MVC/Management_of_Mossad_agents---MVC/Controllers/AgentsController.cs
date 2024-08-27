@@ -16,13 +16,20 @@ namespace Management_of_Mossad_agents___MVC.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var apiUrl = "http://localhost:5288/Agents";
-            var response = await _httpClient.GetAsync(apiUrl);
+            var response = await _httpClient.GetAsync("http://localhost:5288/agents");
             response.EnsureSuccessStatusCode();
-            var jsonString = await response.Content.ReadAsStringAsync();
-            var result = JsonConvert.DeserializeObject<AgentsResponse>(jsonString);
-            return View(result.Agents);
+
+            var jsonResponse = await response.Content.ReadAsStringAsync();
+
+            var agentApiResponse = JsonConvert.DeserializeObject<AgentApiResponse>(jsonResponse);
+
+            return View(agentApiResponse.Agents);
         }
+
+
+
+
+
 
 
 
